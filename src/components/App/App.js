@@ -4,10 +4,10 @@ import BusinessList from '../BusinessList/BusinessList';
 import SearchBar from '../SearchBar/SearchBar';
 
 
-import logo from './logo.svg';
+// import logo from './logo.svg';
 
-function App() {
-  render();
+class App extends React.Component{
+  render()
   {
     return (
       <div className="App">
