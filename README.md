@@ -1,3 +1,8 @@
+# Before you run the project
+
+1. Request for temporary acess fro CORS through this link: https://cors-anywhere.herokuapp.com/corsdemo
+2. Create yelp account and get your access key and paste it in the Yelp.js file
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
